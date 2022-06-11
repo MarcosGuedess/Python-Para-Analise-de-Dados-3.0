@@ -5,6 +5,8 @@
 
 **1- Instalação de Ambiente.**
 
+- Instalanção Anaconda, e utilizando a IDE Jupyter Notebook.
+
 **2- Variáveis, Tipos e Estrutura de Dados.**
 
 **3- Loops, Condicionais, Métodos e funções.**
