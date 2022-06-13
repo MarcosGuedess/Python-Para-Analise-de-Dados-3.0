@@ -9,6 +9,13 @@
 
 **2- Variáveis, Tipos e Estrutura de Dados.**
 
+- Python Fundamentos.
+- Números e Operações Matemáticas.
+- Variáveis e Operadores.
+- Estrings
+- Estruturas de Dados. (Lista, Dicionário e Tupla).
+- Exercicio.
+
 **3- Loops, Condicionais, Métodos e funções.**
 
 **4- Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in.**
