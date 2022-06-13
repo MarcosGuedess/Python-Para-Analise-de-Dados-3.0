@@ -1,0 +1,10 @@
+# Passo a passo para configurar o ambiente
+
+- Primeiramente é necessário baixar e instalar o "Anaconda" disponível em anaconda.com
+
+  Após a instalação, siga no modo "recomendado" e marcar tabém o box de "PATH", onde será criado uma variavél ambiente. 
+  
+ - Baixar os arquivos, e dentro do diretório onde encontra-se os arquivos, abrir o CMD e digitar => jupyter notebook e então vizualizar os arquivos.
+ 
+ 
+## Necessário ter acesso a internet durante o uso
