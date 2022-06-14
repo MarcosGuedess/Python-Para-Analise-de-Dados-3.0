@@ -18,6 +18,12 @@
 
 **3- Loops, Condicionais, Métodos e funções.**
 
+- Condicionais/IF/ELIF/ELSE.
+- Estruturas de Repetição
+- Métodos.
+- Funções.
+- Exercício.
+
 **4- Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in.**
 
 **5- Orientação a Objeto.**
