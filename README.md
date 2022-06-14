@@ -15,6 +15,8 @@
 - Estrings
 - Estruturas de Dados. (Lista, Dicionário e Tupla).
 - Exercicio.
+#### Bônus- IA x Machine Learning x Deep Learning
+- Introdução aos conceitos e entendendo melhor suas respectivas funcionalidades.
 
 **3- Loops, Condicionais, Métodos e funções.**
 
