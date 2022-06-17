@@ -28,6 +28,14 @@
 
 **4- Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in.**
 
+- Manipulação de arquivos em python.
+- Módulos e pacotes.
+- Pypi e Instalação de pacotes.
+- Pacotes Math e Datetime.
+- Funções Bult-in Map, Reduce e Filter, Zip e Enumerete.
+- List Comprehension.
+- Erro e execeções
+
 **5- Orientação a Objeto.**
 
 **6- Manipulando Banco de Dados em Pyton.**
