@@ -12,7 +12,7 @@
 - Python Fundamentos.
 - Números e Operações Matemáticas.
 - Variáveis e Operadores.
-- Estrings
+- Estrings.
 - Estruturas de Dados. (Lista, Dicionário e Tupla).
 - Exercicio.
 #### Bônus- IA x Machine Learning x Deep Learning
@@ -21,7 +21,7 @@
 **3- Loops, Condicionais, Métodos e funções.**
 
 - Condicionais/IF/ELIF/ELSE.
-- Estruturas de Repetição
+- Estruturas de Repetição.
 - Métodos.
 - Funções.
 - Exercício.
@@ -34,9 +34,16 @@
 - Pacotes Math e Datetime.
 - Funções Bult-in Map, Reduce e Filter, Zip e Enumerete.
 - List Comprehension.
-- Erro e execeções
+- Erro e execeções.
 
-**5- Orientação a Objeto.**
+**5- Orientação a Objeto. (POO)**
+
+- Aprendendo o uso da palavra reservada CLASS.
+- Criando atributos de classe.
+- Criando métodos em uma classe.
+- Instanciando objetos.
+- Herança.
+- Métodos especiais.
 
 **6- Manipulando Banco de Dados em Pyton.**
 
