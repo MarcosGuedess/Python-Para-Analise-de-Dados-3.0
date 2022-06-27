@@ -46,6 +46,24 @@
 - Métodos especiais.
 
 **6- Manipulando Banco de Dados em Pyton.**
+- Introdução ao Banco de Dados Relacional (Utilizando o SQLite)
+- Utilizando linguagem SQL (DDL, DML)
+- Construindo gráficos a partir do banco de dados no jupyter notebook.
+- Conhecendo o Banco de Dados Não-Relacional (MongoDB) e sua sintaxe de pesquisa, atualização, inserção e deletação de registros.
+- Criação de um Mini-Projeto. 
+  -  ### Neste mini-projeto farei uma análise exploratória de dados utilizando Python, linguagem SQL e o Banco de Dados SQLite. Utilizando dados disponíveis publicamente, sobre filmes no <a href="https://www.imdb.com/interfaces/">IMDB</a>.
+  - ### E respondeirei 10 perguntas, baseado na aplicação de exploração de dados.
+  - Quais são as categorias de filmes mais comuns no IMDB ?.
+  - Qual o número de Títulos por Genêro ?.
+  - Qual é a mediana de avaliação dos filmes Por genêro ?.
+  - Qual é a mediana de avaliação dos filmes em relação ao ano de estreia ?.
+  - Qual é o número de filmes avaliados por genêro em relação ao ano de estreia ?.
+  - Qual o filme com o maior tempo de duração ? Calcular os **percentis**.
+  - Qual a relação entre Duração e Genêro ?.
+  - Qual o número de filmes produzidos por País ?.
+  - Quais são os Top 10 melhores filmes ?.
+  - Quais são o Top 10 piores filmes ?.  
+
 
 **7-  Desafio DSA.**
 
