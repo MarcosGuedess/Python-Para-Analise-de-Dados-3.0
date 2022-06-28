@@ -46,16 +46,26 @@
 - Métodos especiais.
 
 **6- Manipulando Banco de Dados em Pyton.**
+
 - Introdução ao Banco de Dados Relacional (Utilizando o SQLite)
 - Utilizando linguagem SQL (DDL, DML)
 - Construindo gráficos a partir do banco de dados no jupyter notebook.
 - Conhecendo o Banco de Dados Não-Relacional (MongoDB) e sua sintaxe de pesquisa, atualização, inserção e deletação de registros.
 - Criação de um Mini-Projeto. 
-  -  #### Neste mini-projeto farei uma análise exploratória de dados utilizando Python, linguagem SQL e o Banco de Dados SQLite. Utilizando dados disponíveis publicamente, sobre filmes no <a href="https://www.imdb.com/interfaces/">IMDB</a>.
+  #### Neste mini-projeto farei uma análise exploratória de dados utilizando Python, linguagem SQL e o Banco de Dados SQLite. Utilizando dados disponíveis publicamente, sobre filmes no <a href="https://www.imdb.com/interfaces/">IMDB</a>.
   
 
 
 **7-  Desafio DSA.**
+
+ - Com o objetivo de ajudar no desenvolvimento das nossas habilidades analíticas e de programação, a DSA criou o primeiro "DesafioDSA" no curso de Python Fundamentos Para Análise deDados. Um conjunto de 5 missões que vão do nível de dificuldade baixo ao avançado, com diversas atividades que formam a base em Programação, Análisede Dados e Inteligência Artificial. 
+ - **1 -** Implementar um algoritmo para determinar se uma string possui todos os caracteres exclusivos.
+ - **2 -** Gerar uma lista de números primos.
+ - **3 -** Implementar um algoritmo para mover um robô do canto superior esquerdo para o canto inferior direito de umagrade.
+ - **4 -** Implementar o Algoritmo de Ordenação **"Selection sort"**.
+ - **5 -** Analisar o Comportamento de Compra de Consumidores. 
+ #### As missões  de  1  a  4  possuem  um  Unit  Test,  o  que  significa  que  seu  código  será  testado  e avaliado a fim de verificar se cumpre todos os requisitos da respectiva missão
+
 
 **8- Módulos Python para Análise de Dados.**
 
