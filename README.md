@@ -69,7 +69,17 @@
 
 **8- Módulos Python para Análise de Dados.**
 
-**9- Introdução a Análise de dados co Python.**
+- Intodução teorica e fundamental para análise de dados e suas ferramentas.
+- Introdução ao Python Open Data Science Stack.
+- Computação matemática com Numpy.
+- Data Munging com Pandas.
+- Séries e DataFrame
+- Vizualização com MatplotLib
+- Machine Learning com Scikt-Learning.
+- Estatistica com StatsModel.
+- Graficos Estáticos com Seaborn
+
+**9- Introdução a Análise de dados com Python.**
 
 **10- Introdução ao TensorFlow.**
 
@@ -79,6 +89,6 @@
 
 **13- Desenvolvimento Web - ETL.**
 
-**14- Introdução ao Web Scraping**
+**14- Introdução ao Web Scraping - Raspagem de Dados**
 
 **15- Avaliação Final.**
