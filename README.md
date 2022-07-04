@@ -81,6 +81,15 @@
 
 **9- Introdução a Análise de dados com Python.**
 
+- Entendendo o processo de analise de dados.
+- Definição do problema a ser resolvido.
+- Preparação e Exploração dos dados
+- Criação do modelo preditivo.
+- Automatização do processo.
+- Apresentação do resultado.
+- Apresentação do Kaggle e as competições em Data Science.
+- **Mini-Projeto 2 - Análise Exploratória  em Conjunto de Dados do Kaggle**
+
 **10- Introdução ao TensorFlow.**
 
 **11- Introdução a Machine Learning com Python.**
