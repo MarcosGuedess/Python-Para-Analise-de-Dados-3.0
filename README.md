@@ -92,6 +92,14 @@
 
 **10- Introdução ao TensorFlow.**
 
+- Introdução ao conceito do TensorFlow.
+- Progaramção paralela em GPUs x CPU.
+- Instalando o TensorFlow.
+- O que são Tensores.
+- Escalares, vetores, matrizes e tensores.
+- TensorFlow x NumPy.
+- Operações matemáticas com tensores.
+
 **11- Introdução a Machine Learning com Python.**
 
 **12 - Introdução ao Deep Learning.**
