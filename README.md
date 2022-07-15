@@ -102,6 +102,14 @@
 
 **11- Introdução a Machine Learning com Python.**
 
+- Conceitos Fundamentais de Machine Learning.
+- Diferença entre Machine Learning e Deep Learning.
+- Aprendizagem Supervisionada e não Supervisionada.
+- Treinamento, Validação e Teste.
+- Overfitting X Underfitting.
+- Machine Learning WorkFlow.
+- Resolver uma proposta de problema comMachine Learning.
+
 **12 - Introdução ao Deep Learning.**
 
 **13- Desenvolvimento Web - ETL.**
