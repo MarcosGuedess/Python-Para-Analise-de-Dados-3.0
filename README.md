@@ -111,9 +111,44 @@
 - Resolver uma proposta de problema comMachine Learning.
 
 **12 - Introdução ao Deep Learning.**
+- Introdução a Machine Learning.
+- Deep Learning e as areas de aplicações.
+- Redes Neurais Arttificiais.
+- Breve história das redes neurais artificiais.
+- Arquiteturas de deep learning.
+- CNN e RNN.
+- Ebook's 
+  - Deep Learning e a tempestade perfeita, Neuronio Biológioco, Perceptron, Função de Ativação, Backpropagation: Grafos Computacionais e Chain Rule, Backpropagation e o Treinamento de Redes Neurais, 10 principais arquiteturas de redes neurais.
+- Mini - projeto: **Inteligência Artificial aplicada a agricultura**.
+  - Estrutura do projeto.
+  - Definição do problema.
+  - Fonte de <a href = "https://www.kaggle.com/moltean/fruits"> dados. </a>
+  - Pacotes Utilizados: sklearn, numpy, tensorflow, matplotlib.pyplot, pathlib import Path.
+  - Processamento de dados: Label Enconding, Hot-Encoding.
+  - Preparação de dados para teste, treino e validação.
+  - Treinamento do modelo em GPU.
+  - Previsões do modelo treinado. Com uma accuracy de : 75%.
+
+
+Grafos Computacionais e Chain Rule
 
 **13- Desenvolvimento Web - ETL.**
 
-**14- Introdução ao Web Scraping - Raspagem de Dados**
+- Introdução sobre o Tema.
+- Utilizando Python com o Framework Flask, para o desenvolvimento back-end.
+- Criando a primeira aplicação. 
+- Construindo App Web para o portifólio dos Cientista de Dados.
+- Mini - peojeto : **Jogando com Mathias, IA via browser.**
+
+**14- Web Scraping - Raspagem de Dados**
+
+- O que é WebSpacraping.
+- Web Scraping e Web Crawling.
+- Verificando se a página permite Web Scraping.
+- Extraindo código de uma pagina HTML.
+- Parse do Código.
+- Expressões Regulares.
+- Convertendo dados de aginas web em tabelas com a biblioteca Pandas.
 
 **15- Avaliação Final.**
+ ### APROVADO COM 94%. Total de 60H.
