@@ -111,6 +111,7 @@
 - Resolver uma proposta de problema comMachine Learning.
 
 **12 - Introdução ao Deep Learning.**
+
 - Introdução a Machine Learning.
 - Deep Learning e as areas de aplicações.
 - Redes Neurais Arttificiais.
@@ -129,9 +130,6 @@
   - Treinamento do modelo em GPU.
   - Previsões do modelo treinado. Com uma accuracy de : 75%.
 
-
-Grafos Computacionais e Chain Rule
-
 **13- Desenvolvimento Web - ETL.**
 
 - Introdução sobre o Tema.
@@ -148,7 +146,8 @@ Grafos Computacionais e Chain Rule
 - Extraindo código de uma pagina HTML.
 - Parse do Código.
 - Expressões Regulares.
-- Convertendo dados de aginas web em tabelas com a biblioteca Pandas.
+- Convertendo dados de páginas web em tabelas com a biblioteca Pandas.
 
 **15- Avaliação Final.**
+
  ### APROVADO COM 94%. Total de 60H.
